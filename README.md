@@ -1,3 +1,4 @@
-# My Awesome Book
+# 前端接入
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1.bn-cli脚手架
+
